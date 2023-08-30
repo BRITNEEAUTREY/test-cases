@@ -1,4 +1,4 @@
-Some desrction of the story
+Some description of the story
 
 Test case 1
 Step 1: Go do this thing
